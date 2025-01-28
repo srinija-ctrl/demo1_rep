@@ -1,7 +1,8 @@
 #include <stdio.h>
 int main()
 {
+  
   printf("the value a","a");
-  printf("chinnu")
+  printf("chinnunggnb")
 return 0;
 }
